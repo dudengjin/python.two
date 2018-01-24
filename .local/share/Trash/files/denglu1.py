@@ -1,5 +1,0 @@
-def longin():
-	
-
-
-longin()

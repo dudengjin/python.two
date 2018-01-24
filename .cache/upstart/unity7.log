@@ -1,216 +1,50 @@
-OpenGL vendor string:   VMware, Inc.
-OpenGL renderer string: Gallium 0.4 on llvmpipe (LLVM 4.0, 256 bits)
-OpenGL version string:  3.0 Mesa 17.0.7
 
-Not software rendered:    [31;01mno[00m
-Not blacklisted:          [32;01myes[00m
-GLX fbconfig:             [32;01myes[00m
-GLX texture from pixmap:  [32;01myes[00m
-GL npot or rect textures: [32;01myes[00m
-GL vertex program:        [32;01myes[00m
-GL fragment program:      [32;01myes[00m
-GL vertex buffer object:  [32;01myes[00m
-GL framebuffer object:    [32;01myes[00m
-GL version is 1.4+:       [32;01myes[00m
+** (unity-webapps-runner:3004): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+qml: Loading webview on /home/dudengjin/.local/share/ubuntu-amazon-default
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:273:25 depends on non-NOTIFYable properties:
+    unity::action::qml::ActionManager::globalContext
+[0124/082138.913998:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+OxideQQuickWebView: canGoForward is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+OxideQQuickWebView: canGoBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+qml: Start browsing
+file:///usr/share/webbrowser-app/webcontainer/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webcontainer/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[0124/082139.876987:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0124/082140.068234:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0124/082140.175016:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x3466e0101d98 while trying to inject script in main world
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Unable to fetch children: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application/545253652 接口
 
-Unity 3D supported:       [31;01mno[00m
-Using compiz profile 'ubuntu-lowgfx'
-compizconfig - Info: Backend     : gsettings
-compizconfig - Info: Integration : true
-compizconfig - Info: Profile     : unity-lowgfx
-compiz (core) - Info: Loading plugin: core
-compiz (core) - Info: Starting plugin: core
-compiz (core) - Info: Loading plugin: ccp
-compiz (core) - Info: Starting plugin: ccp
-compizconfig - Info: Backend     : gsettings
-compizconfig - Info: Integration : true
-compizconfig - Info: Profile     : unity-lowgfx
-compiz (core) - Info: Loading plugin: composite
-compiz (core) - Info: Starting plugin: composite
-compiz (core) - Info: Loading plugin: opengl
-compiz (core) - Info: Starting plugin: opengl
-compiz (core) - Info: Loading plugin: imgpng
-compiz (core) - Info: Starting plugin: imgpng
-compiz (core) - Info: Loading plugin: expo
-compiz (core) - Info: Starting plugin: expo
-compiz (core) - Info: Loading plugin: copytex
-compiz (core) - Info: Starting plugin: copytex
-compiz (core) - Info: Loading plugin: compiztoolbox
-compiz (core) - Info: Starting plugin: compiztoolbox
-compiz (core) - Info: Loading plugin: move
-compiz (core) - Info: Starting plugin: move
-compiz (core) - Info: Loading plugin: workarounds
-compiz (core) - Info: Starting plugin: workarounds
-compiz (core) - Info: Loading plugin: place
-compiz (core) - Info: Starting plugin: place
-compiz (core) - Info: Loading plugin: snap
-compiz (core) - Info: Starting plugin: snap
-compiz (core) - Info: Loading plugin: session
-compiz (core) - Info: Starting plugin: session
-compiz (core) - Info: Loading plugin: regex
-compiz (core) - Info: Starting plugin: regex
-compiz (core) - Info: Loading plugin: wall
-compiz (core) - Info: Starting plugin: wall
-compiz (core) - Info: Loading plugin: vpswitch
-compiz (core) - Info: Starting plugin: vpswitch
-compiz (core) - Info: Loading plugin: unitymtgrabhandles
-compiz (core) - Info: Starting plugin: unitymtgrabhandles
-compiz (core) - Info: Loading plugin: mousepoll
-compiz (core) - Info: Starting plugin: mousepoll
-compiz (core) - Info: Loading plugin: grid
-compiz (core) - Info: Starting plugin: grid
-compiz (core) - Info: Loading plugin: resize
-compiz (core) - Info: Starting plugin: resize
-compiz (core) - Info: Loading plugin: ezoom
-compiz (core) - Info: Starting plugin: ezoom
-compiz (core) - Info: Loading plugin: fade
-compiz (core) - Info: Starting plugin: fade
-compiz (core) - Info: Loading plugin: scale
-compiz (core) - Info: Starting plugin: scale
-compiz (core) - Info: Loading plugin: unityshell
-compiz (core) - Info: Starting plugin: unityshell
-WARN  2018-01-15 08:51:18 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 08:51:18 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录 -- full D-Bus introspection will not be available
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
-WARN  2018-01-15 08:51:19 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
-WARN  2018-01-15 08:51:19 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 在搜索目录中无法找到有效的键文件
-WARN  2018-01-15 08:51:19 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 08:51:19 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 08:51:20 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 08:51:20 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 08:51:20 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 08:51:20 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
-ERROR 2018-01-15 08:51:22 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
-ERROR 2018-01-15 08:51:22 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:22 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 08:51:59 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:06:38 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:07:02 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:07:12 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:07:25 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:09:04 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:09:14 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 09:31:56 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 10:49:24 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 13:38:17 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 13:45:52 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 14:23:42 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 14:52:10 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 15:27:00 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 16:04:41 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 16:21:29 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 17:32:36 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 18:54:12 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-OpenGL vendor string:   VMware, Inc.
-OpenGL renderer string: Gallium 0.4 on llvmpipe (LLVM 4.0, 256 bits)
-OpenGL version string:  3.0 Mesa 17.0.7
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+WARN  2018-01-24 08:21:41 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application/545253652 接口
+TouchSelectionController::active is deprecated, use TouchSelectionController::status instead
+WARN  2018-01-24 08:21:42 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: 无法打开目录
 
-Not software rendered:    [31;01mno[00m
-Not blacklisted:          [32;01myes[00m
-GLX fbconfig:             [32;01myes[00m
-GLX texture from pixmap:  [32;01myes[00m
-GL npot or rect textures: [32;01myes[00m
-GL vertex program:        [32;01myes[00m
-GL fragment program:      [32;01myes[00m
-GL vertex buffer object:  [32;01myes[00m
-GL framebuffer object:    [32;01myes[00m
-GL version is 1.4+:       [32;01myes[00m
+(unity-control-center:3122): Clutter-WARNING **: Whoever translated default:LTR did so wrongly.
 
-Unity 3D supported:       [31;01mno[00m
-Using compiz profile 'ubuntu-lowgfx'
-compizconfig - Info: Backend     : gsettings
-compizconfig - Info: Integration : true
-compizconfig - Info: Profile     : unity-lowgfx
-compiz (core) - Info: Loading plugin: core
-compiz (core) - Info: Starting plugin: core
-compiz (core) - Info: Loading plugin: ccp
-compiz (core) - Info: Starting plugin: ccp
-compizconfig - Info: Backend     : gsettings
-compizconfig - Info: Integration : true
-compizconfig - Info: Profile     : unity-lowgfx
-compiz (core) - Info: Loading plugin: composite
-compiz (core) - Info: Starting plugin: composite
-compiz (core) - Info: Loading plugin: opengl
-compiz (core) - Info: Starting plugin: opengl
-compiz (core) - Info: Loading plugin: imgpng
-compiz (core) - Info: Starting plugin: imgpng
-compiz (core) - Info: Loading plugin: expo
-compiz (core) - Info: Starting plugin: expo
-compiz (core) - Info: Loading plugin: copytex
-compiz (core) - Info: Starting plugin: copytex
-compiz (core) - Info: Loading plugin: compiztoolbox
-compiz (core) - Info: Starting plugin: compiztoolbox
-compiz (core) - Info: Loading plugin: move
-compiz (core) - Info: Starting plugin: move
-compiz (core) - Info: Loading plugin: workarounds
-compiz (core) - Info: Starting plugin: workarounds
-compiz (core) - Info: Loading plugin: place
-compiz (core) - Info: Starting plugin: place
-compiz (core) - Info: Loading plugin: snap
-compiz (core) - Info: Starting plugin: snap
-compiz (core) - Info: Loading plugin: session
-compiz (core) - Info: Starting plugin: session
-compiz (core) - Info: Loading plugin: regex
-compiz (core) - Info: Starting plugin: regex
-compiz (core) - Info: Loading plugin: wall
-compiz (core) - Info: Starting plugin: wall
-compiz (core) - Info: Loading plugin: vpswitch
-compiz (core) - Info: Starting plugin: vpswitch
-compiz (core) - Info: Loading plugin: unitymtgrabhandles
-compiz (core) - Info: Starting plugin: unitymtgrabhandles
-compiz (core) - Info: Loading plugin: mousepoll
-compiz (core) - Info: Starting plugin: mousepoll
-compiz (core) - Info: Loading plugin: grid
-compiz (core) - Info: Starting plugin: grid
-compiz (core) - Info: Loading plugin: resize
-compiz (core) - Info: Starting plugin: resize
-compiz (core) - Info: Loading plugin: ezoom
-compiz (core) - Info: Starting plugin: ezoom
-compiz (core) - Info: Loading plugin: fade
-compiz (core) - Info: Starting plugin: fade
-compiz (core) - Info: Loading plugin: scale
-compiz (core) - Info: Starting plugin: scale
-compiz (core) - Info: Loading plugin: unityshell
-compiz (core) - Info: Starting plugin: unityshell
-WARN  2018-01-15 20:50:51 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 20:50:51 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录 -- full D-Bus introspection will not be available
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
-WARN  2018-01-15 20:50:52 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
-WARN  2018-01-15 20:50:52 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 在搜索目录中无法找到有效的键文件
-WARN  2018-01-15 20:50:52 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 20:50:52 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 20:50:53 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-15 20:50:53 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 20:50:53 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
-WARN  2018-01-15 20:50:53 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
-ERROR 2018-01-15 20:50:54 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
-ERROR 2018-01-15 20:50:54 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-01-15 20:50:54 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+(nautilus:3141): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:3141): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:3141): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:3141): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:3141): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
