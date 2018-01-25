@@ -1110,4 +1110,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dudengjin/python%E9%AB%98%E7%BA%A7/test.txt" added="2018-01-25T12:31:45Z" modified="2018-01-25T12:31:45Z" visited="2018-01-25T12:31:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-25T12:31:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
