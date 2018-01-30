@@ -35,7 +35,7 @@ class User(object):
 
 
 a = User
-a.selfFrist_name('杜登进')
-a.selfLast_name('杜')
-a.selfAddr('山西')
+a.selffrist_name('杜登进')
+a.selflast_name('杜')
+a.selfaddr('山西')
 

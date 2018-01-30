@@ -9,7 +9,7 @@ class SweetPotato(object):
 
 	
 	def __Str__(self):
-		msg = ''
+		msg = ','
 		msg = self.cookedStr
 		if len(self.condiments) > 0:
 

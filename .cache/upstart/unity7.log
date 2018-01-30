@@ -1,11 +1,4 @@
-ERROR 2018-01-25 08:35:14 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
-WARN  2018-01-25 09:36:55 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 11:23:11 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 13:34:13 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 14:02:08 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 14:15:21 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 14:39:07 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 16:30:42 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 17:05:31 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 20:10:17 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-01-25 20:23:34 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-01-30 12:33:03 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-01-30 14:42:08 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-01-30 14:49:37 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-01-30 15:00:06 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
