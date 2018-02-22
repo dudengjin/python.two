@@ -16,9 +16,7 @@ for i in list[-3:]:
 	print(i)
 
 
-
 print("-----------------分割线-------------------")
-
 
 Pizza = ["田园比萨","夏威夷比萨","奥尔良比萨"]
 
@@ -40,9 +38,7 @@ for i in friend_pizzas:
 	print(i)
 
 
-
 print("-----------------分割线-------------------")
-
 
 
 food = ["chicken","hamburger","chips","noodle",]

@@ -1270,7 +1270,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/name_cases.py" added="2018-02-05T08:31:42Z" modified="2018-02-05T08:31:42Z" visited="2018-02-05T08:31:42Z">
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/name_cases.py" added="2018-02-05T08:31:42Z" modified="2018-02-11T09:52:01Z" visited="2018-02-05T08:31:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1278,7 +1278,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-05T08:31:42Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:52:01Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1296,7 +1296,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%95%B0%E5%AD%97.py" added="2018-02-05T10:05:41Z" modified="2018-02-08T08:17:43Z" visited="2018-02-05T10:05:41Z">
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%95%B0%E5%AD%97.py" added="2018-02-05T10:05:41Z" modified="2018-02-11T09:52:25Z" visited="2018-02-05T10:05:41Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1304,12 +1304,13 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-08T08:17:43Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:52:25Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:52:25Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%89%E7%AB%A0/%E5%88%97%E8%A1%A8.py" added="2018-02-08T02:36:11Z" modified="2018-02-08T08:31:26Z" visited="2018-02-08T02:36:11Z">
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%89%E7%AB%A0/%E5%88%97%E8%A1%A8.py" added="2018-02-08T02:36:11Z" modified="2018-02-11T09:53:19Z" visited="2018-02-08T02:36:11Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1317,13 +1318,13 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-08T02:36:11Z" count="1"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-08T08:31:26Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:53:19Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:53:19Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E6%95%B0%E5%AD%97.py" added="2018-02-08T16:02:32Z" modified="2018-02-08T16:02:45Z" visited="2018-02-08T16:02:32Z">
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E6%95%B0%E5%AD%97.py" added="2018-02-08T16:02:32Z" modified="2018-02-11T09:55:42Z" visited="2018-02-08T16:02:32Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1331,12 +1332,13 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-08T16:02:45Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:55:42Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:55:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E6%AF%94%E8%90%A8.py" added="2018-02-08T16:02:53Z" modified="2018-02-09T11:51:51Z" visited="2018-02-08T16:02:53Z">
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E6%AF%94%E8%90%A8.py" added="2018-02-08T16:02:53Z" modified="2018-02-11T09:54:59Z" visited="2018-02-08T16:02:53Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1344,7 +1346,239 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-09T11:51:51Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:54:56Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:54:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%94%E7%AB%A0/conditional_tests.py" added="2018-02-11T09:14:44Z" modified="2018-02-14T15:23:44Z" visited="2018-02-11T09:14:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:14:44Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-14T15:23:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%94%E7%AB%A0/if%E8%AF%AD%E5%8F%A5.py" added="2018-02-11T09:14:50Z" modified="2018-02-11T09:14:51Z" visited="2018-02-11T09:14:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:14:50Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:14:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/simple_message.py" added="2018-02-11T09:52:08Z" modified="2018-02-11T09:52:08Z" visited="2018-02-11T09:52:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:52:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/simple_messages.py" added="2018-02-11T09:52:15Z" modified="2018-02-11T09:52:15Z" visited="2018-02-11T09:52:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:52:15Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:52:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%B3%A8%E9%87%8A.py" added="2018-02-11T09:52:54Z" modified="2018-02-11T09:52:54Z" visited="2018-02-11T09:52:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:52:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%89%E7%AB%A0/%E6%94%BE%E7%9C%BC%E4%B8%96%E7%95%8C.py" added="2018-02-11T09:53:07Z" modified="2018-02-11T09:53:08Z" visited="2018-02-11T09:53:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:53:08Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:53:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%89%E7%AB%A0/%E5%88%97%E8%A1%A8zsgc.py" added="2018-02-11T09:53:26Z" modified="2018-02-11T09:54:45Z" visited="2018-02-11T09:53:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-11T09:53:26Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:54:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E5%88%87%E7%89%87.py" added="2018-02-11T09:55:15Z" modified="2018-02-11T09:55:38Z" visited="2018-02-11T09:55:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:55:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E8%87%AA%E5%8A%A9%E9%A4%90.py" added="2018-02-11T09:55:56Z" modified="2018-02-11T09:55:56Z" visited="2018-02-11T09:55:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-11T09:55:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E5%A4%96%E6%98%9F%E4%BA%BA.py" added="2018-02-14T15:23:32Z" modified="2018-02-14T15:23:57Z" visited="2018-02-14T15:23:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-14T15:23:57Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-14T15:23:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E5%B9%B4%E9%BE%84.py" added="2018-02-14T15:24:19Z" modified="2018-02-14T15:24:20Z" visited="2018-02-14T15:24:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-14T15:24:20Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-14T15:24:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E5%AD%97%E5%85%B8.py" added="2018-02-16T14:07:37Z" modified="2018-02-18T10:26:47Z" visited="2018-02-16T14:07:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-18T10:26:46Z" count="6"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-18T10:26:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E4%BA%BA.py" added="2018-02-17T01:08:09Z" modified="2018-02-17T01:08:10Z" visited="2018-02-17T01:08:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-17T01:08:10Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-17T01:08:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%83%E7%AB%A0/while%E5%BE%AA%E7%8E%AF.py" added="2018-02-21T10:28:04Z" modified="2018-02-21T10:28:04Z" visited="2018-02-21T10:28:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-21T10:28:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%83%E7%AB%A0/%E7%86%9F%E9%A3%9F.py" added="2018-02-21T10:28:24Z" modified="2018-02-21T10:28:24Z" visited="2018-02-21T10:28:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-21T10:28:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E7%AB%A0/city.py" added="2018-02-21T10:28:49Z" modified="2018-02-22T16:15:27Z" visited="2018-02-21T10:28:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-22T16:15:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E5%81%87%E6%9C%9F%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E7%AB%A0/%E4%B8%89%E6%98%8E%E6%B2%BB.py" added="2018-02-22T16:15:14Z" modified="2018-02-22T16:15:15Z" visited="2018-02-22T16:15:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-02-22T16:15:14Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-22T16:15:15Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

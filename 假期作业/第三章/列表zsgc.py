@@ -2,13 +2,13 @@
 list = ["liutingting","fenxinming","duanjinsong"]
 print(list)
 
-print("---------------------------")
+print("----------------分割线-----------------")
 
 print(list[2] + "cant come this party")
 list[2] = "dudengjin"
 print(list)
 
-print("--------------------------")
+print("-----------------分割线-------------------")
 
 print("I found a bigger table.")
 list.insert(0,"wanghanqing")
@@ -18,7 +18,7 @@ print(list)
 list.append("menweijia")
 print(list)
 
-print("--------------------------")
+print("-----------------分割线------------------")
 print("I am sorry about that only two guests can come this party")
 for n in range(0,4):
 	num = 1
