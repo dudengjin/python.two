@@ -1,8 +1,8 @@
-# 监听
-for event in pygame.event.get()
-
-if event.type == pygame.QUIT:
-	print("退出游戏....")
+from plane_sprites import *
 
 
-	
+
+enemy1 = GameSprite("./images/enemy1.png")
+
+enemy2 = GameSprite("./images/enemy1.png",2)
+
