@@ -54,20 +54,22 @@ $
 	 
 
 # 文件标记:
-'0  8  47  ~/.git/config
-'1  1  0  ~/.git/config
-'2  264  15  /etc/samba/smb.conf
-'3  266  0  /etc/samba/smb.conf
-'4  8  0  /etc
-'5  15  0  ~/aircraft.py/aircraft.py
-'6  27  2  ~/复习.py/递归函数.py
-'7  6  11  ~/复习.py/递归函数.py
-'8  1  11  ~/__init__.py
-'9  3  9  ~/a.py
+'0  6  4  ~/.git/config
+'1  7  16  ~/.git/config
+'2  8  47  ~/.git/config
+'3  1  0  ~/.git/config
+'4  264  15  /etc/samba/smb.conf
+'5  266  0  /etc/samba/smb.conf
+'6  8  0  /etc
+'7  15  0  ~/aircraft.py/aircraft.py
+'8  27  2  ~/复习.py/递归函数.py
+'9  6  11  ~/复习.py/递归函数.py
 
 # 跳转列表 (从新到旧):
+-'  6  4  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  16  ~/.git/config
 -'  8  47  ~/.git/config
--'  1  38  ~/.git/config
 -'  264  15  /etc/samba/smb.conf
 -'  1  0  /etc/samba/smb.conf
 -'  1  0  /etc/samba
@@ -166,11 +168,15 @@ $
 # 文件内的标记历史记录 (从新到旧):
 
 > ~/.git/config
-	"	8	47
-	^	8	48
-	.	8	48
+	"	6	4
+	^	6	5
+	.	6	4
 	+	1	0
-	+	8	48
+	+	8	1
+	+	7	5
+	+	8	24
+	+	7	16
+	+	6	4
 
 > /etc/samba/smb.conf
 	"	264	15
