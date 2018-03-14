@@ -1450,7 +1450,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dudengjin/aircraft.py/aircraft2.py" added="2018-03-08T10:50:39Z" modified="2018-03-08T10:50:39Z" visited="2018-03-08T10:50:39Z">
+  <bookmark href="file:///home/dudengjin/aircraft.py/aircraft2.py" added="2018-03-08T10:50:39Z" modified="2018-03-13T05:52:35Z" visited="2018-03-08T10:50:39Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1459,7 +1459,162 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-03-08T10:50:39Z" count="2"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-08T10:50:39Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-13T05:52:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E6%A1%8C%E9%9D%A2/u=843006364,3387034179&amp;fm=27&amp;gp=0.jpg" added="2018-03-12T05:46:44Z" modified="2018-03-12T05:46:45Z" visited="2018-03-12T05:46:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-03-12T05:46:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E6%A1%8C%E9%9D%A2/u=1972873509,2904368741&amp;fm=27&amp;gp=0.jpg" added="2018-03-12T05:47:00Z" modified="2018-03-12T05:47:01Z" visited="2018-03-12T05:47:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-03-12T05:47:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E6%A1%8C%E9%9D%A2/u=697313387,282354321&amp;fm=27&amp;gp=0.jpg" added="2018-03-12T05:47:59Z" modified="2018-03-12T05:48:00Z" visited="2018-03-12T05:48:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-03-12T05:48:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/plane_main.py" added="2018-03-12T06:19:19Z" modified="2018-03-14T08:41:54Z" visited="2018-03-12T06:19:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-14T08:41:54Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-03-14T08:41:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/Runoob/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8.py" added="2018-03-12T07:20:06Z" modified="2018-03-12T07:20:06Z" visited="2018-03-12T07:20:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-12T07:20:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/images/resume_pressed.png" added="2018-03-13T05:51:57Z" modified="2018-03-13T05:51:57Z" visited="2018-03-13T05:51:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-03-13T05:51:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/aircraft1.py" added="2018-03-13T05:52:29Z" modified="2018-03-13T05:52:29Z" visited="2018-03-13T05:52:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-13T05:52:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/aircraft3.py" added="2018-03-13T05:52:45Z" modified="2018-03-13T05:52:45Z" visited="2018-03-13T05:52:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-13T05:52:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/images/again.png" added="2018-03-13T07:57:49Z" modified="2018-03-13T07:57:49Z" visited="2018-03-13T07:57:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-03-13T07:57:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/%E4%B8%8B%E8%BD%BD/QQMusic_15.8.0.0_Setup.tar.gz" added="2018-03-13T08:24:31Z" modified="2018-03-13T08:24:38Z" visited="2018-03-13T08:24:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-03-13T08:24:38Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2018-03-13T08:24:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/vim/vimrc" added="2018-03-13T08:32:27Z" modified="2018-03-13T08:32:27Z" visited="2018-03-13T08:32:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-13T08:32:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/share/%E8%96%9B%E4%B9%8B%E8%B0%A6%20-%20%E4%B8%8B%E9%9B%A8%E4%BA%86.mp3" added="2018-03-14T07:53:09Z" modified="2018-03-14T07:53:10Z" visited="2018-03-14T07:53:09Z">
+    <title>薛之谦 - 下雨了.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;totem %U&apos;" modified="2018-03-14T07:53:09Z" count="2"/>
+          <bookmark:application name="视频" exec="&apos;totem %u&apos;" modified="2018-03-14T07:53:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudengjin/aircraft.py/plane_sprites.py" added="2018-03-14T08:10:52Z" modified="2018-03-14T08:10:52Z" visited="2018-03-14T08:10:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-14T08:10:52Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

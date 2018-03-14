@@ -1,3 +1,4 @@
+WARN  2018-03-14 15:45:47 unityct(io) <unknown>:0 Unable to load keyfile from file '/usr/share/applications/sublime_text.desktop': No such file or directory
 OpenGL vendor string:   VMware, Inc.
 OpenGL renderer string: Gallium 0.4 on llvmpipe (LLVM 4.0, 256 bits)
 OpenGL version string:  3.0 Mesa 17.0.7
@@ -69,32 +70,40 @@ compiz (core) - Info: Loading plugin: scale
 compiz (core) - Info: Starting plugin: scale
 compiz (core) - Info: Loading plugin: unityshell
 compiz (core) - Info: Starting plugin: unityshell
-WARN  2018-03-11 10:48:00 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
-WARN  2018-03-11 10:48:00 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录 -- full D-Bus introspection will not be available
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
-WARN  2018-03-11 10:48:01 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
-WARN  2018-03-11 10:48:01 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 在搜索目录中无法找到有效的键文件
-WARN  2018-03-11 10:48:01 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
-WARN  2018-03-11 10:48:02 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
-WARN  2018-03-11 10:48:02 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
-WARN  2018-03-11 10:48:02 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
-WARN  2018-03-11 10:48:02 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
-WARN  2018-03-11 10:48:02 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
-ERROR 2018-03-11 10:48:03 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
-ERROR 2018-03-11 10:48:03 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:03 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2018-03-11 10:48:41 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-03-14 15:56:38 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2018-03-14 15:56:38 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录 -- full D-Bus introspection will not be available
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
+WARN  2018-03-14 15:56:39 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
+WARN  2018-03-14 15:56:39 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 在搜索目录中无法找到有效的键文件
+WARN  2018-03-14 15:56:39 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2018-03-14 15:56:40 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2018-03-14 15:56:40 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-03-14 15:56:40 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2018-03-14 15:56:40 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2018-03-14 15:56:40 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2018-03-14 15:56:42 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2018-03-14 15:56:42 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:56:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-03-14 15:57:20 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-03-14 15:57:21 unityct(io) <unknown>:0 Unable to load keyfile from file '/usr/share/applications/sublime_text.desktop': No such file or directory
+WARN  2018-03-14 16:07:17 unityct(io) <unknown>:0 Unable to load keyfile from file '/usr/share/applications/sublime_text.desktop': No such file or directory
+ERROR 2018-03-14 16:30:24 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2018-03-14 16:30:24 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+WARN  2018-03-14 16:46:03 unityct(io) <unknown>:0 Unable to load keyfile from file '/usr/share/applications/sublime_text.desktop': No such file or directory
+WARN  2018-03-14 16:54:27 unityct(io) <unknown>:0 Unable to load keyfile from file '/usr/share/applications/sublime_text.desktop': No such file or directory

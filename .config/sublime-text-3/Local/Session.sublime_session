@@ -3,17 +3,65 @@
 	[
 	],
 	"last_version": 3143,
-	"last_window_id": 3,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"ma",
+						"man_x\tstatement"
+					],
+					[
+						"CENTER",
+						"centerx\tinstance"
+					],
+					[
+						"_",
+						"__init__\tfunction"
+					],
+					[
+						"image",
+						"image_name"
+					],
+					[
+						"u",
+						"USEREVENT\tinstance"
+					],
+					[
+						"hero",
+						"HERO_FIRE_EVENT"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"cl",
+						"classmethod\tclass"
+					],
+					[
+						"speed",
+						"new_speed"
+					],
+					[
+						"G",
+						"GameSprite"
+					],
+					[
+						"B",
+						"Bullet\tclass"
+					],
+					[
+						"__",
+						"__init__"
+					],
 					[
 						"pl",
 						"plane_sprites\tmodule"
@@ -27,28 +75,12 @@
 						"bg2\tstatement"
 					],
 					[
-						"back",
-						"back_group"
-					],
-					[
 						"t",
 						"True\tkeyword"
 					],
 					[
-						"__",
-						"__create_sprites"
-					],
-					[
 						"st",
 						"staticmethod\tclass"
-					],
-					[
-						"hero",
-						"hero_rect\tstatement"
-					],
-					[
-						"image",
-						"imagae_name"
 					],
 					[
 						"p",
@@ -97,10 +129,6 @@
 					[
 						"house",
 						"House_item\tclass"
-					],
-					[
-						"cl",
-						"class\tNew Class"
 					],
 					[
 						"s",
@@ -204,10 +232,16 @@
 			},
 			"file_history":
 			[
+				"/home/dudengjin/aircraft.py/plane_sprites.py",
+				"/home/dudengjin/aircraft1.py/plane_sprites.py",
+				"/home/dudengjin/aircraft1.py/plane_main.py",
+				"/home/dudengjin/aircraft.py/aircraft1.py",
+				"/home/dudengjin/aircraft.py/plane_main.py",
+				"/home/dudengjin/家具摆放.py",
+				"/home/dudengjin/类属性.py",
 				"/home/dudengjin/aircraft.py/plane_main1.py",
 				"/home/dudengjin/aircraft.py/aircraft3.py",
 				"/home/dudengjin/aircraft.py/aircraft2.py",
-				"/home/dudengjin/aircraft.py/aircraft1.py",
 				"/home/dudengjin/plane_sprites.py",
 				"/home/dudengjin/plane_main.py",
 				"/home/dudengjin/aircraft1.py",
@@ -231,7 +265,6 @@
 				"/home/dudengjin/练习1.py",
 				"/home/dudengjin/lianxi3.py",
 				"/home/dudengjin/lianxi2.py",
-				"/home/dudengjin/家具摆放.py",
 				"/home/dudengjin/包.py",
 				"/home/dudengjin/士兵突击.py",
 				"/home/dudengjin/练习3.py",
@@ -266,7 +299,7 @@
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -280,6 +313,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"()\n",
+					"hero",
 					"():",
 					"))\n",
 					"()\n"
@@ -299,7 +334,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 39.0
 			},
 			"input":
 			{
@@ -321,7 +356,7 @@
 			"pinned_build_system": "Packages/User/py34.sublime-build",
 			"replace":
 			{
-				"height": 60.0
+				"height": 74.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -361,7 +396,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -371,16 +406,52 @@
 				"selected_items":
 				[
 					[
+						"p",
+						"PlaneGame\tclass"
+					],
+					[
+						"mix",
+						"mixer_music\tmodule"
+					],
+					[
+						"ma",
+						"man_x\tstatement"
+					],
+					[
+						"CENTER",
+						"centerx\tinstance"
+					],
+					[
+						"_",
+						"__init__\tfunction"
+					],
+					[
+						"image",
+						"image_name"
+					],
+					[
+						"u",
+						"USEREVENT\tinstance"
+					],
+					[
+						"hero",
+						"HERO_FIRE_EVENT"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"cl",
+						"classmethod\tclass"
+					],
+					[
 						"speed",
 						"new_speed"
 					],
 					[
 						"G",
 						"GameSprite"
-					],
-					[
-						"hero",
-						"hero_group"
 					],
 					[
 						"B",
@@ -403,24 +474,12 @@
 						"bg2\tstatement"
 					],
 					[
-						"back",
-						"back_group"
-					],
-					[
 						"t",
 						"True\tkeyword"
 					],
 					[
 						"st",
 						"staticmethod\tclass"
-					],
-					[
-						"image",
-						"imagae_name"
-					],
-					[
-						"p",
-						"pass\tkeyword"
 					],
 					[
 						"E",
@@ -465,10 +524,6 @@
 					[
 						"house",
 						"House_item\tclass"
-					],
-					[
-						"cl",
-						"class\tNew Class"
 					],
 					[
 						"s",
@@ -522,7 +577,7 @@
 					"file": "/home/dudengjin/aircraft.py/plane_main.py",
 					"settings":
 					{
-						"buffer_size": 2525,
+						"buffer_size": 2473,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -531,16 +586,7 @@
 					"file": "/home/dudengjin/aircraft.py/plane_sprites.py",
 					"settings":
 					{
-						"buffer_size": 1978,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/dudengjin/aircraft.py/aircraft1.py",
-					"settings":
-					{
-						"buffer_size": 1090,
+						"buffer_size": 2421,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -603,10 +649,18 @@
 			},
 			"file_history":
 			[
+				"/home/dudengjin/飞机大战.py/plane_sprites.py",
+				"/home/dudengjin/飞机大战.py/plane_main.py",
+				"/home/dudengjin/aircraft.py/plane_sprites.py",
+				"/home/dudengjin/aircraft.py/plane_main.py",
+				"/home/dudengjin/aircraft1.py/plane_sprites.py",
+				"/home/dudengjin/aircraft1.py/plane_main.py",
+				"/home/dudengjin/aircraft.py/aircraft1.py",
+				"/home/dudengjin/家具摆放.py",
+				"/home/dudengjin/类属性.py",
 				"/home/dudengjin/aircraft.py/plane_main1.py",
 				"/home/dudengjin/aircraft.py/aircraft3.py",
 				"/home/dudengjin/aircraft.py/aircraft2.py",
-				"/home/dudengjin/aircraft.py/aircraft1.py",
 				"/home/dudengjin/plane_sprites.py",
 				"/home/dudengjin/plane_main.py",
 				"/home/dudengjin/aircraft1.py",
@@ -630,7 +684,6 @@
 				"/home/dudengjin/练习1.py",
 				"/home/dudengjin/lianxi3.py",
 				"/home/dudengjin/lianxi2.py",
-				"/home/dudengjin/家具摆放.py",
 				"/home/dudengjin/包.py",
 				"/home/dudengjin/士兵突击.py",
 				"/home/dudengjin/练习3.py",
@@ -679,6 +732,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\t\n",
+					"()\n",
+					"hero",
 					"():",
 					"))\n",
 					"()\n"
@@ -708,34 +764,19 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2525,
+								"buffer_size": 2473,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										829,
-										829
+										204,
+										204
 									]
 								],
 								"settings":
 								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
@@ -751,81 +792,27 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1978,
+								"buffer_size": 2421,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										339,
-										339
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/dudengjin/aircraft.py/aircraft1.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1090,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										358,
-										206
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 155.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -875,7 +862,7 @@
 				"height": 144.0
 			},
 			"pinned_build_system": "Packages/User/py34.sublime-build",
-			"position": "0,1,0,0,0,0,0,0,0,984,846",
+			"position": "0,1,0,0,0,0,0,0,0,1920,950",
 			"project": "",
 			"replace":
 			{
