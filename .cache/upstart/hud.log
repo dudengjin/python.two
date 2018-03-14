@@ -49,3 +49,5 @@
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/65011715 接口"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/50335336 接口"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/50337545 接口"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/62917316 接口"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/50341293 接口"
