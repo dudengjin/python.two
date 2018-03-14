@@ -1,4 +1,0 @@
-
-(indicator-keyboard-service:2240): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
-
-(indicator-keyboard-service:2240): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
